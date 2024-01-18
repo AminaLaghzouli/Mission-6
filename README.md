@@ -1,5 +1,5 @@
-# Optimisez la gestion du stock d’une boutique en nettoyant ses données.
-BottleNeck, un marchand de vin très prestigieux qui fait de la vente en ligne, a besoin de :
-- Optimiser la gestion du stock de BottleNeck.
-- Faire un rapprochement entre l'entreprise ressource planning « ERP » et le site de vente en ligne.
-- Augmenter la visibilité d’analyse des ventes sur Internet.
+# Optimize the management of a store's inventory by cleaning its data.
+BottleNeck, a highly prestigious wine merchant engaged in online sales, needs to:
+Optimize the management of BottleNeck's inventory.
+Reconcile the Enterprise Resource Planning (ERP) system with the online sales site.
+Enhance the visibility of sales analysis on the Internet.
